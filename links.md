@@ -31,7 +31,6 @@
 
 [Peter Calthorpe: 7 principles for building better cities | TED Talk](https://www.ted.com/talks/peter_calthorpe_7_principles_for_building_better_cities)
 
-
-
+[Unhanded – A symposium about ‘making’ under the influence of digitalism / @artengine](http://www.creativeapplications.net/theory/unhanded-a-symposium-about-making-under-the-influence-of-digitalism/)
 
 
