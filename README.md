@@ -1,5 +1,4 @@
 # AI-tecture
-
 ## Abstract
 The goal is to create an artificial intelligence system capable of developing highly optimised master plans.
 
@@ -8,15 +7,14 @@ The problems we see in modern cities:
 
 - People spend a lot of time on the road. Traffic jams, gasoline costs, transportation and service costs. This is pretty obvious.
 
-- The second, the less obvious problem is that people live in isolation from each other: they spend time either in private individual houses, or in high-rise buildings on the outskirts, or in transport. 
-
+- The second, less obvious problem is segregation. People live isolated from each other: they spend time either in private individual houses, or in high-rise superblocks, or in vehicles. They’re segregated into land-use enclaves.
 Off-line communication is not effective anymore.
 
 This entails a loss of the synergy effect. For the system to be effective, the agents should be enabled to observe each other and copy successful models and strategies.
 
 - A great latency in feedback loop - the time from creating a master plan to evaluating it in reality can be enormous.
 
-- We're observing chaotic urban sprawl for decades, but we don’t know still what are the effective ways of land use and conservation.
+- We're observing chaotic urban sprawl for decades, but we still don’t know what the effective ways of land use and conservation are.
 
 - Ecology
 
@@ -30,11 +28,10 @@ It is rather difficult to change the existing infrastructure, but we can be much
 
 We're aimed to build an ML/AI based CAD capable of generating three-dimensional maximally detailed highly optimised master plans that would include the layers of all constructions, communication networks such as electricity, water and sewerage, information infrastructures, predicted travel behaviour such as flows of cars, pedestrians, cyclists and public transport.
 
-
-### System objectives:
+### Algorithms’ objectives:
 - Minimise water consumption by 
-	- sharing heaters, 
-	- rainwater collection and filtration.
+	- sharing heaters, washing machines
+	- rainwater collection and filtration facilities
 	- optimised plumbing
 	- etc.
 - Minimise power consumption by 
@@ -42,8 +39,10 @@ We're aimed to build an ML/AI based CAD capable of generating three-dimensional 
 	- optimising electric grid for reducing the total length of wires for minimising energy losses during transmission.
 	- global optimising solar panels arrangements.
 - Optimised traffic. Minimise the average travel time between key points like  homes, bus stops, bike parks, schools, shops, cafes. (minimum travel time)
-	- Minimise carbon emissions
-    
+	- Minimise net carbon emissions
+- Maximise the of walking multi-use low-rise areas, that would include residence, recreation and small businesses and sustain social connectedness and, ultimately, well-being.
+
+
 
 ### Sample parameters for the algorithms:
 - Site location and configuration.
@@ -56,9 +55,12 @@ We're aimed to build an ML/AI based CAD capable of generating three-dimensional 
 - Features of local legislation and subcultural characteristics.
 - Demography: number of families and types of families, distribution by ages, etc.
 - Demography forecast.
-- Points of connection of communications, etc
+- Points of connection of communications like water, sewerage, electricity, gas, internet, transit, roads, heating, etc
 - Fiscal constraints.
 - Etc…
+
+
+
 
 
 
