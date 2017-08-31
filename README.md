@@ -43,3 +43,19 @@ We're aimed to build an ML/AI based CAD capable of generating three-dimensional 
 	- global optimising solar panels arrangements.
 - Optimised traffic. Minimise the average travel time between key points like  homes, bus stops, bike parks, schools, shops, cafes. (minimum travel time)
 	- Minimise carbon emissions
+    
+
+### Sample parameters for the algorithms:
+- Site location and configuration.
+- Site relief and contiguous relief
+- Characteristics of adjacent structures and roads
+- Climate (seasonally)
+	- min / max temperature,  humidity / precipitation, wind rose, number of sunny days (refer solar panels), etc.
+- Ground/soil characteristics
+- Vegetation characteristics
+- Features of local legislation and subcultural characteristics.
+- Demography: number of families and types of families, distribution by ages, etc.
+- Demography forecast.
+- Points of connection of communications, etc
+- Fiscal constraints.
+- Etc…
